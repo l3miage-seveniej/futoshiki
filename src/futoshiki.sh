@@ -14,7 +14,7 @@ java InterpretationReponse sol.out $1 > $1_rempli
 # affichage : une entete pour faire joli
 echo "       +----------------------+"
 echo '       |   FUTOSHIKI SOLVER   |'
-echo '	     |	     AWESOME	    |'
+echo '	     |	   AWESOME	    |'
 echo '       +----------------------+'
 
 
