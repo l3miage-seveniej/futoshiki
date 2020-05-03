@@ -14,7 +14,10 @@ java InterpretationReponse sol.out $1 > $1_rempli
 # affichage : une entete pour faire joli
 echo "       +----------------------+"
 echo '       |   FUTOSHIKI SOLVER   |'
+echo '	     |	      AWESOME	    |'
 echo '       +----------------------+'
+
+
 echo
 echo
 # affichage : on affiche le fichier du futoshiki fourni non resolu
